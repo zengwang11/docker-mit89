@@ -1,0 +1,5 @@
+Flask
+Redis
+tensorflow
+numpy
+Pillow
